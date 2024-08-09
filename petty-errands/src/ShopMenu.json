@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Electronics",
+    "link": "/shop/electronics",
+    "image": "bags.jpg"
+  },
+  {
+    "name": "Women's Clothing",
+    "link": "/shop/womens-clothing",
+    "image": "fashion.jpg"
+  },
+  {
+    "name": "Men's Clothing",
+    "link": "/shop/mensclothing",
+    "image": "iwatch.jpg"
+  },
+  {
+    "name": "Jewellery",
+    "link": "/shop/jewellery",
+    "image": "shoes.jpg"
+  }
+]
